@@ -1,0 +1,5 @@
+Este projeto mostra o uso de Fragment e de SmartTabLayout, além de trabalhar com
+imagens e audios.
+Nele o usuário clica em uma imagem e sua tradução em Inglês é pronunciada.
+O Layout principal é manipulado através do SmartTabLayout.
+As abas são gerenciadas por Fragments.
